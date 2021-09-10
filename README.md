@@ -1,4 +1,4 @@
-## About the project:
+## About:
 
 This project (Project OK: or Online Kumustahan) is a project by the the Commission on Higher Education – Cordillera Administrative Region to provide students with a venue to communicate concerns amidst the pandemic and find support from the colleges, universities, and private and public partner institutions.
 
